@@ -9,7 +9,6 @@ library(dr)
 library(MASS)
 library(pracma)
 library(tsDyn)
-library(Stem)
 library(mvtnorm)
 
 source("func/fn_SIR.R")
